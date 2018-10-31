@@ -1,3 +1,3 @@
 # demo
 
-demo r
+demo re
